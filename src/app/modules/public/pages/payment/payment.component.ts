@@ -68,6 +68,7 @@ export class PaymentComponent {
       razonSocial: razonSocial,
       email: email,
       telefonoMovil: telefonoMovil,
+      //leo no tengo ni idea pero lo que esta en tipo de documento se duplica en numero de documento cuando pones ambos en tipo de documento numero de documento se pone numero de documento
       tipoDocumento: tipoDocumento,
       numeroDocumento: numeroDocumento,
       direccionFiscal: direccionFiscal
